@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joelczk&count_private=true&hide=stars&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **joelczk/joelczk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
