@@ -7,6 +7,3 @@
 - 📋 Always on the lookout for interesting projects
 - 📫 Reachable at
   [![linkedin badge](https://img.shields.io/badge/Joel_Chang-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-chang-1a034a188/?originalSubdomain=sg)
-
-### Github Stats
-[![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joelczk&count_private=true&hide=stars&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
