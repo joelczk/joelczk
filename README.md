@@ -3,7 +3,7 @@
 #### I'm Joel, a penultimate student majoring in Information Security at NUS
 - 🏫 Security Engineer at Sea
 - 💻 Comfortable with ```.py``` and various other languages
-- 🛠️ Familiar with various offensive security tools such as Burp Suite
+- 🛠️ Familiar with various offensive security tools such as Burp Suite etc.
 - 📋 Always on the lookout for interesting projects
 - 📝 Currently working on HackTheBox machines
 - 📫 Reachable at
