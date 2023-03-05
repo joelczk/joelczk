@@ -1,11 +1,11 @@
 ### Hi there, welcome to my page!👋
 
-#### I'm Joel, a penultimate student majoring in Information Security at NUS
+#### I'm Joel, a security engineer based in Singapore
 - 🏫 Security Engineer at Sea
 - 💻 I hack for good
 - ⚙️ Comfortable with ```.py``` and various other languages
-- 🛠️ Familiar with various offensive security tools such as Burp Suite etc.
-- 📋 Always on the lookout for interesting projects
-- 📝 Currently working on HackTheBox machines
+- 🛠️ Penetration Testing, Red Team and Offensive Tooling
+- 📋 Currently working on HTB
+- 📝 Obtained ```OSCP```
 - 📫 Reachable at
   [![linkedin badge](https://img.shields.io/badge/Joel_Chang-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-chang-1a034a188/?originalSubdomain=sg)
