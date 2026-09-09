@@ -9,11 +9,6 @@
 - 🤖 Building LLM-based agents for vulnerability triage and detection
 - 📝 Obtained `OSCP`
 
-#### GitHub Activity
-
-![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelczk&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelczk&theme=dark&hide_border=true)
-
 #### Links
 
 [![LinkedIn](https://img.shields.io/badge/Joel_Chang-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/joel-chang-1a034a188/?originalSubdomain=sg)
