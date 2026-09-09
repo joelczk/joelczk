@@ -2,12 +2,12 @@
 
 #### I'm Joel, a security engineer based in Singapore
 
-- 🏫 Security Engineer
-- 💻 I hack for good
-- ⚙️ Comfortable with `.py` and various other languages
-- 🛠️ Penetration Testing, Red Team, Offensive Tooling & Security Automation
-- 🤖 Building LLM-based agents for vulnerability triage and detection
-- 📝 Obtained `OSCP`
+- 🏫 Security Engineer by day, bug hunter by night
+- 💻 Breaking things so others can build them safer
+- ⚙️ Python is my weapon of choice — but I'm dangerous in other languages too
+- 🛠️ Pentesting · Red Teaming · Offensive Tooling · Security Automation
+- 🤖 Teaching LLMs to find vulnerabilities before the bad guys do
+- 📝 `OSCP` certified — tried harder, passed
 
 #### Links
 
