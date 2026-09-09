@@ -9,12 +9,10 @@
 - 🤖 Building LLM-based agents for vulnerability triage and detection
 - 📝 Obtained `OSCP`
 
-#### CVEs
+#### GitHub Activity
 
-| CVE | Severity | Description |
-|-----|----------|-------------|
-| [CVE-2025-52688](https://github.com/joelczk/CVE-2025-52688) | 🔴 Critical (9.8) | Command injection with root privileges via unsanitized access point |
-| [CVE-2025-48461](https://github.com/joelczk/CVE-2025-48461) | 🟡 Medium (5.0) | Predictable session cookies enabling unauthorized portal access |
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelczk&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelczk&theme=dark&hide_border=true)
 
 #### Links
 
