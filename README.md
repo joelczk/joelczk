@@ -11,7 +11,7 @@
 
 #### Contributions
 
-![Joel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelczk&theme=github-dark&hide_border=true)
+![Joel's GitHub Contributions](https://ghchart.rshah.org/joelczk)
 
 #### Links
 
