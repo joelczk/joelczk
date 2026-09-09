@@ -1,6 +1,6 @@
 ### Hi there, welcome to my page! 👋
 
-#### I'm Joel, a security engineer based in Singapore
+#### I'm Joel — hacking things in Singapore so you don't have to worry about it 🔐
 
 - 🏫 Security Engineer by day, bug hunter by night
 - 💻 Breaking things so others can build them safer
