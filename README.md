@@ -9,9 +9,10 @@
 - 🤖 Building LLM-based agents for vulnerability triage and detection
 - 📝 Obtained `OSCP`
 
-#### Contributions
+#### Recent Activity
 
-![Joel's GitHub Contributions](https://ghchart.rshah.org/joelczk)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 #### Links
 
